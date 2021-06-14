@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ghost
+Build-Jdk: 15.0.2
+Implementation-Title: spring-boot-mongodb-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.abijoue.mongodb
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-mo
+ ngodb-example/
+Created-By: Maven Integration for Eclipse
+
