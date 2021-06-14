@@ -23,7 +23,7 @@ Application WEB ( CRUD ) - SPRING BOOT ( BACK-END )
 	
 #### 3-Demarrer le Project sur Eclipse et utiliser Swagger ( JSON API documentation for spring based applications ) :
   - http://localhost:8095/rest/users/all ( simple GET)
-  	![](/images/image1.png)
+  	![](/images/image1-1.png)
   - http://localhost:8080/swagger-ui.html ( swagger-ui )
 	![](/images/image2.png)
 ### 4 - database file 
